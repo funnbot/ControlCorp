@@ -59,4 +59,8 @@ public class PlayerController : MonoBehaviour {
     void SetText(string t) {
         
     }
+
+    void TimedText(string t) {
+        
+    }
 }
